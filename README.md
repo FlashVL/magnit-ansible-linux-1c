@@ -7,7 +7,7 @@
      ```bash
      sudo ansible --version
      ```
-   - Если Ansible не установлен, установите его.
+   - Если Ansible не установлен, [установите его](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html).
 
 2. **Копирование каталога Ansible:**
    - Скопируйте каталог `ansible` в требуемое место, например, в корень.
